@@ -10,6 +10,7 @@ def summon_captain_planet(array)
   array.collect |calls|
       new_array.each << "#{calls.capitalize}!"
     end 
+    new_array
   end 
   
 end
