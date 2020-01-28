@@ -5,7 +5,13 @@ def roll_call_dwarves(array)
   end 
 end 
 
-def summon_captain_planet
+def summon_captain_planet(array)
+  new_array = []
+    new_array.each do |name| 
+      new_array.each << array.upcase 
+    end 
+  end 
+  
 end
 
 def long_planeteer_calls
