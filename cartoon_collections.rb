@@ -1,5 +1,6 @@
-def roll_call_dwarves(["Doc", "Dopey", "Basheful", "Grumpy"])
+def roll_call_dwarves(["Doc", "Dopey", "Bashful", "Grumpy"])
   ["Doc", "Dopey", "Bashful", "Grumpy"].each_with_index do |dwarf , index| 
+  end 
 end 
 
 def summon_captain_planet
