@@ -1,5 +1,5 @@
 def roll_call_dwarves(["Doc", "Dopey", "Bashful", "Grumpy"])
-  ["Doc", "Dopey", "Bashful", "Grumpy"].each_with_index do |dwarf , index| 
+  ["Doc", "Dopey", "Bashful", "Grumpy"].each_with_index do |dwarf, index| 
   end 
 end 
 
